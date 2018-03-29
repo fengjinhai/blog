@@ -1,31 +1,31 @@
 +++
-title = "Web Crawling"
-date = 2018-03-28T22:42:01+08:00
-draft = false
+# Date this page was created.
+date = "2013-04-27"
+
+# Project title.
+title = "Web Crawling at Scale"
+
+# Project summary to display on homepage.
+summary = "A flexible and high performance distributed crawler framework."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
-
-# Project summary to display on homepage.
-summary = ""
-
-# Optional image to display on homepage.
-image_preview = ""
+tags = ["web-crawling", "information-integration"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/crawlerclub/x"
 
 # Does the project detail page use math formatting?
 math = false
 
-# Does the project detail page use source code highlighting?
-highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# Optional featured image (relative to `static/img/` folder).
+#[header]
+#image = "headers/crawler.png"
+#caption = "My caption :smile:"
 
 +++
+
+Web crawling is at the core of many data businesses. Whether you call it web crawling, web or screen scraping, or mining the web, it involves going to sites or json apis on the web, grabbing pages, and parsing them to pull out links, images, text, prices, titles, email addresses, and numerous other page attributes.
