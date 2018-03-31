@@ -1,10 +1,10 @@
 +++
 title = "Design and Implementation of Indoor Point of Interest Recommended System Based on Multi-Mode"
-date = 2018-03-29T11:00:15+08:00
+date = 2014-03-29T11:00:15+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Jinhai Feng"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
