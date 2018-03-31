@@ -1,10 +1,10 @@
 +++
 title = "Personalized WeChat Recommendation System Based on Indoor WLAN Localtion"
-date = 2018-03-29T10:53:13+08:00
+date = 2014-03-29T10:53:13+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Jinhai Feng"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "With the popularity of WLAN(Wireless Local Area Networks)indoors,mobile devices can easily get real-time access to it,which provides us an unprecedented opportunity to understand individual behavior in everyday life.Recently,mining persons' point of interest and behaviors attracts more attentions.A WeChat recommendation system based on indoor WLAN localization is proposed,which uses users' historical information to obtain users' interest from the overload information.Existing location services usually aim for users' outdoor location data,lack analyzing indoor data through mining,and ignore an amount of semantic information in users' location data.The users' activities are traced by the indoor positioning technology.According to the shops which users visited and the products users saw,users' interest is estimated so as to recommend users for personalized products that may interest them.Based on the above work,we design a personalized product recommendation system based on indoor WLAN localization and the WeChat platform."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -42,14 +42,14 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://joces.nudt.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=6538"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=JSJK201410015&v=MzE2MDNVUkxLZlpPVnVGeXZnVjcvSkx6N0JaYkc0SDlYTnI0OUVZWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckM="
 url_source = ""
 
 # Custom links (optional).
