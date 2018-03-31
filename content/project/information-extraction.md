@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Knowledge extraction from web pages"
+title = "Information Extraction"
 
 # Project summary to display on homepage.
-summary = "基于网页库的全球电话号码信息抽取"
+summary = "Extracting image information based on web DB."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "boards.jpg"
