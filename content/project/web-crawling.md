@@ -16,7 +16,7 @@ image_preview = "bubbles.jpg"
 tags = ["web-crawling", "information-integration"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/crawlerclub/x"
+external_link = "https://github.com/fengjinhai/pageCrawer"
 
 # Does the project detail page use math formatting?
 math = false
