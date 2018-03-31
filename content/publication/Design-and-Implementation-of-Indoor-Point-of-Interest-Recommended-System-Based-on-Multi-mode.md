@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Based on Wireless Local Area Network (WLAN)，positioning methods can provide a relatively accurate indoor positioning information，but it can not effectively utilize the hidden information of user trajectory. This paper presents an recommended algorithm based on indoor user trajectory clustering，combines with WLAN positioning technology to extract Point of Interest(POI) from a user trajectory，uses DBSCAN algorithm to find and extract user POI feature，and employs Decision Tree (DT) algorithm to realize user classification and personalization recommendation service．Indoor POI recommendation system based on weChat platform is designed and implemented to verify the validity of proposed algorithm，and it can provide personalized recommended and recommended service based on content for users．"
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -49,7 +49,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "http://www.ecice06.com/EN/Y2015/V41/I8/273"
 url_source = ""
 
 # Custom links (optional).
